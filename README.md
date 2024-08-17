@@ -3,7 +3,7 @@
 ## Pre Requistis
 
 1. Vertex AI Service Account Key
-2. Documents for the Knoledgebase
+2. Documents for the Knowledgebase
 
 ## Steps 
 
